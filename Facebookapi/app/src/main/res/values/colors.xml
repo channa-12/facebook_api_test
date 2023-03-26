@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--https://www.canva.com/colors/color-palettes/green-blaze/-->
+<resources>
+    <color name="primary">#B1D8B7</color>
+    <color name="secondary">#2F5233</color>
+    <color name="tertiary">#76B947</color>
+    <color name="spearmint">#94C973</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_delete">#E12A2A</color>
+    <color name="blue_edit">#0067B3</color>
+    <color name="midnight_blue">#546E81</color>
+    <color name="lime_green">#5CD85A</color>
+    <color name="forest_green">#08313A</color>
+    <color name="gray_text">#808080</color>
+</resources>

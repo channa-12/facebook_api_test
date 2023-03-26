@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053559377097",
+    "firebase_url": "https://facebook-api-917ad-default-rtdb.firebaseio.com",
+    "project_id": "facebook-api-917ad",
+    "storage_bucket": "facebook-api-917ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053559377097:android:f1998a709439e044d69118",
+        "android_client_info": {
+          "package_name": "com.example.facebookapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053559377097-mem1pejs315kjq073befuouj9h2jev3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJkNZooNcBaqlToXIKR5zAheIDoioa9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053559377097-mem1pejs315kjq073befuouj9h2jev3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

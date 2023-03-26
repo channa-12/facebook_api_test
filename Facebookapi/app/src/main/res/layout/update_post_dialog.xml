@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:id="@+id/txt_post_id_edit"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/arima_semi_bold"
+            android:text="@string/_3127726120812575_3127805307471323"
+            android:textColor="@color/tertiary"
+            android:textSize="16sp"
+            android:layout_marginBottom="10dp"/>
+
+        <EditText
+            android:id="@+id/ed_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:singleLine="true"
+            android:fontFamily="@font/arima_medium"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:hint="@string/post_description"/>
+
+        <EditText
+            android:id="@+id/ed_status_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:singleLine="true"
+            android:fontFamily="@font/arima_medium"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:hint="@string/status_type_"/>
+
+        <LinearLayout
+            android:id="@+id/btn_edit_post_fb"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:paddingVertical="10dp"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_circular_edit"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/arima_medium"
+                android:text="@string/update"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</layout>

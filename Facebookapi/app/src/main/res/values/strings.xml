@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Facebook api</string>
+    <string name="search_facebook_post_id">Search Facebook Post ID</string>
+    <string name="find">Find</string>
+    <string name="user">User</string>
+    <string name="caption">caption</string>
+    <string name="date">Date:</string>
+    <string name="_22_12_2022">22/12/2022</string>
+    <string name="show_all_post">Show All Post</string>
+    <string name="created_time">Created Time:</string>
+    <string name="_2022_07_06t04_54_05_0000">2022-07-06T04:54:05+0000</string>
+    <string name="submit">Submit</string>
+    <string name="message">Message:</string>
+    <string name="posted">Posted</string>
+    <string name="status_type">Status Type:</string>
+    <string name="mobile_status_update">Mobile Status Update</string>
+    <string name="true_">True</string>
+    <string name="is_published">Is Published:</string>
+    <string name="post_id">Post ID:</string>
+    <string name="_3127726120812575_3127805307471323">3127726120812575_3127805307471323</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="show_all_post_from_facebook">Show All Post From Facebook</string>
+    <string name="loading_data">Loading data ...</string>
+    <string name="no_data_to_display">No Data to Display</string>
+    <string name="update">Update</string>
+    <string name="id">ID</string>
+    <string name="post_description">Post Description</string>
+    <string name="status_type_">Status Type</string>
+</resources>
